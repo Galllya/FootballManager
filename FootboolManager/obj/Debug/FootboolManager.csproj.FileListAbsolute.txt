@@ -1,0 +1,10 @@
+C:\Users\bolga\source\repos\FootboolManager\FootboolManager\bin\Debug\FootboolManager.exe.config
+C:\Users\bolga\source\repos\FootboolManager\FootboolManager\bin\Debug\FootboolManager.exe
+C:\Users\bolga\source\repos\FootboolManager\FootboolManager\bin\Debug\FootboolManager.pdb
+C:\Users\bolga\source\repos\FootboolManager\FootboolManager\obj\Debug\FootboolManager.csprojAssemblyReference.cache
+C:\Users\bolga\source\repos\FootboolManager\FootboolManager\obj\Debug\FootboolManager.Form1.resources
+C:\Users\bolga\source\repos\FootboolManager\FootboolManager\obj\Debug\FootboolManager.Properties.Resources.resources
+C:\Users\bolga\source\repos\FootboolManager\FootboolManager\obj\Debug\FootboolManager.csproj.GenerateResource.cache
+C:\Users\bolga\source\repos\FootboolManager\FootboolManager\obj\Debug\FootboolManager.csproj.CoreCompileInputs.cache
+C:\Users\bolga\source\repos\FootboolManager\FootboolManager\obj\Debug\FootboolManager.exe
+C:\Users\bolga\source\repos\FootboolManager\FootboolManager\obj\Debug\FootboolManager.pdb
